@@ -1,3 +1,11 @@
 To Do List
 
-A simple To-Do List web application that allows users to add tasks with date and time and automatically displays them using HTML, CSS, and JavaScript.
+A simple web-based To-Do List application that allows users to create tasks with date and time, view them instantly, edit existing tasks, and delete tasks. The application is built using HTML, CSS, and JavaScript.
+
+Tech Stack: HTML , CSS , JavaScript
+
+Features:
+    1.Add new tasks with date and time
+    2.Tasks can be automatically viewed after creation
+    3.Edit existing tasks
+    4.Delete tasks
